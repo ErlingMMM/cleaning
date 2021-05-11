@@ -6,3 +6,7 @@
     width: 100%;
     height:94vh;  /* responsive height */
   }
+
+  .random{
+    border-bottom: 1px solid darkblue;
+  }
